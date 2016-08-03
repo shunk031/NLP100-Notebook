@@ -1,0 +1,4 @@
+# NLP100-Notebook gitignore
+
+# ignore directories
+.ipynb_checkpoints/
