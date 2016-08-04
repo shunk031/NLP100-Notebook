@@ -2,6 +2,7 @@
 
 # ignore files
 README.html
+chapter02/split*.txt
 
 # ignore directories
 .ipynb_checkpoints/
