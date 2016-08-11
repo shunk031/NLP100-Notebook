@@ -8,6 +8,7 @@ jawiki-country.json
 jawiki-country.json.gz
 
 neko.txt
+neko.txt.mecab
 
 # ignore directories
 .ipynb_checkpoints/
