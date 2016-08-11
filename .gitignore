@@ -4,5 +4,8 @@
 README.html
 chapter02/split*.txt
 
+jawiki-country.json
+jawiki-country.json.gz
+
 # ignore directories
 .ipynb_checkpoints/
